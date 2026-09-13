@@ -17,7 +17,7 @@ export default function Navbar() {
           whileHover={{ scale: 1.04 }}
           className="text-2xl font-black tracking-[-0.06em]"
         >
-          Running<span className="text-[#B93A25]">Talent</span>
+          Runing<span className="text-[#B93A25]">Talent</span>
         </motion.a>
 
         {/* Links */}
